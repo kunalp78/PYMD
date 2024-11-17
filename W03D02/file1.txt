@@ -1,0 +1,3 @@
+Hey I am content of file 1
+Hi I am written using the r+ mode
+Hi I am written using the a+ mide
